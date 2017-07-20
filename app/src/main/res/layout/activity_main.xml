@@ -20,6 +20,8 @@
         android:layout_marginBottom="@dimen/fb_margin_bottom"
         app:pressedTranslationZ="12dp"
         android:elevation="6dp"
-        android:id="@+id/fb_camerafef"/>
+        android:id="@+id/fb_camera"/>
+
+
 
 </android.support.design.widget.CoordinatorLayout>

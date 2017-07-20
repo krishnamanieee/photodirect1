@@ -13,26 +13,37 @@
       },
       "oauth_client": [
         {
-          "client_id": "366785022413-ubp5bcuo8kma4jscpksubupf4lthtmb9.apps.googleusercontent.com",
-          "client_type": 3
-        },
-        {
-          "client_id": "366785022413-5f2bi8bal5e8ithqiujg7bvu9ptcgnq3.apps.googleusercontent.com",
+          "client_id": "366785022413-rlj4b8jj4pfk1kop7iqp0cr01r6281q0.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "website.photodirect.photodirect",
             "certificate_hash": "cac67d044bae8941504d41910c08fc620776f2b0"
           }
+        },
+        {
+          "client_id": "366785022413-0hlk8uvhl7pm4mmq5bruuupvd4nm6pgc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "366785022413-37ofqsgpits2cm2pjifg2l4ghoa757qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "website.photodirect.photodirect",
+            "certificate_hash": "452d934c0bf8692065977c704a9ac6465efb1d7b"
+          }
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDlKkDt23rzjj4YDx9zJNWWO9iY_i8M_JM"
+          "current_key": "AIzaSyAHZqNr2xwRwzRz0xMzjFzGRIjat-od3x4"
         }
       ],
       "services": {
         "analytics_service": {
-          "status": 1
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-102858480-1"
+          }
         },
         "appinvite_service": {
           "status": 1,
